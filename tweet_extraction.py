@@ -9,11 +9,11 @@ import time
 import pandas as pd
 from textblob import TextBlob
 
-access_token = "1162860923259883521-gzhKfDRsM7K9BCVsY20gpSf2T4FN24"
-access_token_secret = "81C6jXzuRW9lNC2xmIDQyx0ry329Z8Mv0R9xeRLd1Vnud"
-api_key = "1XTCdc3geOxmexHTD6cFhAxzU"
-api_secret = "o1zBvQ619k6bESI8GwsY7y5hQiew4lvELpH9ShA1w3zW9XpCe9"
-bearer_token = "AAAAAAAAAAAAAAAAAAAAAGEvhgEAAAAA7vA5p5CnSs9tpwdUP0Vx6nM9tDg%3DuV0ITZOMP8j0T4cQ9rE7UrrAPMNa01ppdt4GLfyIFU4Quqkxl2"
+access_token = "please enter access_token"
+access_token_secret = "please enter access_token_secret"
+api_key = "please enter api_key"
+api_secret = "please enter api_secret"
+bearer_token = "please enter bearer_token"
 
 client = tweepy.Client(bearer_token, api_key, api_secret, access_token, access_token_secret)
 
