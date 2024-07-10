@@ -1,7 +1,6 @@
 '''
-    Ngoh Rodney Amah
-
-    I received help from Elijah Boateng to complete some parts of my code.
+    Author: Ngoh Rodney Amah
+    Co-author Elijah Boateng 
 '''
 
 import tweepy
